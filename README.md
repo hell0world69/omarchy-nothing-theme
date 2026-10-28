@@ -5,7 +5,7 @@ True-black OLED theme inspired by Nothing OS: monochrome dot-matrix with a singl
 ## Install
 
 ```
-omarchy theme install <this-repo-url>
+omarchy theme install https://github.com/hell0world69/omarchy-nothing-theme
 ```
 
 ## What's inside
