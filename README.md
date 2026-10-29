@@ -15,7 +15,7 @@ omarchy theme install https://github.com/hell0world69/omarchy-nothing-theme
   instead of red. It does not follow `colors.toml`; update it if you change
   the accent, or delete it to let Omarchy generate one.
 - `backgrounds/` — five original dot-matrix wallpapers, a plain AMOLED black one, and the Omarchy vantablack logo and wordmark on black (`omarchy theme bg next` to cycle).
-- `unlock.png` / `preview-unlock.png` — dot-matrix boot-screen logo
+- `unlock.png` / `preview-unlock.png` — boot-screen logo, the Omarchy vantablack mark and wordmark
   (`omarchy plymouth set-by-theme nothing`).
 - `preview.png` — theme picker thumbnail.
 - `icons.theme` — grey folder icons (`Tela-circle-grey-dark`). Install them with
