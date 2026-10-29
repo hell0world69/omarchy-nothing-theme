@@ -14,7 +14,7 @@ omarchy theme install https://github.com/hell0world69/omarchy-nothing-theme
 - `btop.theme` — hand-patched so btop's network border uses the accent
   instead of red. It does not follow `colors.toml`; update it if you change
   the accent, or delete it to let Omarchy generate one.
-- `backgrounds/` — five original dot-matrix wallpapers (`omarchy theme bg next` to cycle).
+- `backgrounds/` — five original dot-matrix wallpapers plus a plain AMOLED black one (`omarchy theme bg next` to cycle).
 - `unlock.png` / `preview-unlock.png` — dot-matrix boot-screen logo
   (`omarchy plymouth set-by-theme nothing`).
 - `preview.png` — theme picker thumbnail.
